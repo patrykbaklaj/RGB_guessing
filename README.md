@@ -2,5 +2,5 @@
 
 Simple game, which helps you understand rgb standard for colors.
 
-Vanilla js
+VanillaJS
 HTML & CSS
